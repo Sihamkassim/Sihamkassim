@@ -4,7 +4,7 @@ Hi there! I’m Siham Kassim, a 3rd-year Software Engineering student with a pas
 
 What I’m Up To:
 
-🌱 Enhancing my skills in Web Development and UI/UX Design
+🌱 Enhancing my skills in Web Development and UI/UX Design.
 
 A Little About Me:
 
