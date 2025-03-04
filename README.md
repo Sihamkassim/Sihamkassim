@@ -7,5 +7,4 @@ What I’m Up To:
 🌱 Enhancing my skills in Web Development and UI/UX Design.
 
 A Little About Me:
-
 I love exploring creative solutions and finding inspiration in simple, elegant designs with warm, earthy tones.
