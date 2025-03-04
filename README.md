@@ -1,9 +1,6 @@
-Welcome to My GitHub 👋
-
 Hi there! I’m Siham Kassim, a 3rd-year Software Engineering student with a passion for designing and developing user-friendly web applications. 
 
-What I’m Up To:
-
+Currently
 🌱 Enhancing my skills in Web Development and UI/UX Design.
 
 A Little About Me:
