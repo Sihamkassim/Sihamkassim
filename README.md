@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Engineering Student | 💻 Frontend Developer | 🎨 UI/UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+Love+Building+Web+Experiences;Let's+Build+Something+Great+Together" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+Love+Building+Web+Experiences;Lets+Build+Something+Great+Together" alt="Typing SVG" />
 </p>
 
 ---
