@@ -52,7 +52,7 @@
 ### 📫 Contact Me
 - 📧 Email: **sihamkassim1212121212@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/siham-kassim1212121212)
-- 🌐 Portfolio: _coming soon!_
+
 
 ---
 
