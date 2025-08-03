@@ -53,6 +53,9 @@
 - 📧 Email: **sihamkassim1212121212@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/siham-kassim1212121212)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sihamkassim&label=Profile%20views&color=0e75b6&style=flat" alt="Sihamkassim" />
+</p>
 
 ---
 
