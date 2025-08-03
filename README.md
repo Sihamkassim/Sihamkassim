@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Siham Kassim</h1>
 <h3 align="center">🚀 Software Engineering Student | 💻 Frontend Developer | 🎨 UI/UX Enthusiast</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sihamkassim&label=Profile%20views&color=0e75b6&style=flat" alt="Sihamkassim" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+Love+Building+Web+Experiences" alt="Typing SVG" />
@@ -53,9 +56,6 @@
 - 📧 Email: **sihamkassim1212121212@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/siham-kassim1212121212)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sihamkassim&label=Profile%20views&color=0e75b6&style=flat" alt="Sihamkassim" />
-</p>
 
 ---
 
