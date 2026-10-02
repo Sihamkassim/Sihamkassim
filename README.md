@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siham Kassim</h1>
 <h3 align="center">
-🚀 Software Engineer | 💻 Full-Stack Developer  | 🎨 UI/UX Designer
+🚀 Software Engineer | 💻 Full-Stack Developer  | Mobile App developer
 </h3>
 
 <p align="center">
